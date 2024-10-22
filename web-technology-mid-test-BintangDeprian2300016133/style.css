@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #44568e; /* Background color */
+}
+
+.container {
+    text-align: center;
+    padding: 60px;
+    background-color: #ffffff; /* Background color for container */
+    border-radius: 15px;
+    box-shadow: 0 5px 40px rgb(255, 0, 106);
+    width: 90%;
+    max-width: 500px;
+}
+
+/* TODO: Add styles for labels, inputs, buttons, and output text */
+h1 {
+    font-size: 2.2em;
+    margin-bottom: 20px;
+    color: #000000; /* Header color */
+}
+
+/* Add more styles here as needed */
